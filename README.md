@@ -14,7 +14,7 @@ The dataset used in this project includes:
 - **Complaint Count**: Number of complaints recorded.
 - **Date/Time Fields** for temporal analysis.
 
-📎 _Dataset Link:_ [https://raw.githubusercontent.com/Invact-Abhay/DOE/refs/heads/main/ComplaintsTable.csv]
+📎 _Dataset Link:_ [https://github.com/rashi12121/Meesho_CX_Optimizer-A_Pareto_Analysis/blob/main/Meesho_Complaint_Data.csv]
 
 ---
 
